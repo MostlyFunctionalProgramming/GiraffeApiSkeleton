@@ -15,3 +15,4 @@ dotnet new giraffe -V none
 1. Added `ping` simple text handler
 1. Tweaked the `handleGetHello` handler to accept parameter from `routef`
 1. Added the POST handler that blows up, calling the default `errorHandler`
+1. Formatted the code using Fantomas
